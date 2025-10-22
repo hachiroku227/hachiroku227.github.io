@@ -1,0 +1,26 @@
+﻿{
+    "cards": [
+        {
+            "card_name": "iiiii",
+            "color": "W",
+            "rarity": "common",
+            "type": "Legendary Creature \u2013 Cabybara",
+            "number": 1,
+            "color_identity": "W",
+            "cost": "{W}",
+            "rules_text": "iiiii",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "PRS",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "0",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        }
+    ]
+}

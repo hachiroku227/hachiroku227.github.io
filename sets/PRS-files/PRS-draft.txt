@@ -1,0 +1,22 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "iiiii",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Cabybara",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hachiroku227.github.io.-/sets/PRS-files/img/0.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(7)]
+	8 iiiii
+[foil(1)]
+	12 iiiii
+[wildcard(1)]
+	6 iiiii
